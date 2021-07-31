@@ -1,0 +1,2 @@
+# gh-actions-nodejsscan
+blackhat
